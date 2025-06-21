@@ -1,0 +1,93 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffb347;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-container {
+  background-color: white;
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-container h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.form-container p {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0px 16px 0px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  resize: vertical;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.checkbox-group,
+.radio-group {
+  margin-bottom: 16px;
+}
+
+.checkbox-group label,
+.radio-grouplabel {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.submit-btn {
+  width: 100%;
+  background-color: #ffa500;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #e69500;
+} */
+
+body{
+    background-color: #ffa500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    height: 100vh;
+    margin: 0;
+}
+
+/* .form-container{
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+    width: 320;
+} */
